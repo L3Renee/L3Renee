@@ -1,6 +1,6 @@
-### Hi there my name is Renee, an IT Professional
+### Hi, I'm Renee, an IT Professional
 
-https://github.com/L3Renee/L3Renee#-information-technology-projects
+
 <!--
 **L3Renee/L3Renee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

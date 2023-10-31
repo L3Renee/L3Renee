@@ -4,7 +4,6 @@
 
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/L3Renee/osticket-prereqs)
-  - [osTicket: Post-Installation Configuration](https://github.com/L3Renee/post-install-config)
   -  [osTicket: Ticket Lifecycle Examples](https://github.com/L3Renee/ticket-lifecycle)
   
 - <b>Microsoft Azure</b>
@@ -20,7 +19,7 @@
 
 
 [linkedin]: https://linkedin.com/in/Renee-Lewis-0628327A
-
+You can also contact me @ lewisrenee79@gmail.com
 
 <!--
 
